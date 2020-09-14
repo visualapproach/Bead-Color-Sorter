@@ -5,4 +5,4 @@ Sort your 5 mm HAMA beads to color bins
 
 
 assembling video (not an award winning movie)
-https://youtu.be/xb2Dzd2jzR8
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xb2Dzd2jzR8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
