@@ -1,0 +1,10 @@
+The files in these folders are for educational purpose only. 
+They just show how I built the device.
+
+Anything you do with it is at your own risk. 
+If you decide to build this device, keep in mind
+that there is no consumer safety in place. 
+If it catches on fire and your house burns down - it's on you.
+If your pet gets hurt by a moving part - it's on you.
+
+No warranty or refunds for anything.
